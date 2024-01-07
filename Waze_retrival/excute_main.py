@@ -5,7 +5,7 @@ import os
 import signal
 
 # Path to the child Python script
-child_script = "waze.py"
+child_script = "waze_retrival.py"
 
 # Global variable to keep track of the child process
 child_process = None
