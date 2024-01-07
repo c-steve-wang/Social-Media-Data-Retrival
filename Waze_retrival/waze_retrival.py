@@ -14,7 +14,7 @@ if not os.path.exists(backup_path):
     os.makedirs(backup_path)
 
 # Read the API list from a file
-file1 = open('waze.txt', 'r')
+file1 = open('area_url.txt', 'r')
 apilist = [line.strip() for line in file1 if line.strip()]
 file1.close()
 
