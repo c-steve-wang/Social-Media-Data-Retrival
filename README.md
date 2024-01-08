@@ -8,7 +8,7 @@ The purpose of this hub is to provide a centralized location for scripts, tools,
 
 ## Repository Structure
 
-- `/src`: Contains the source code for different social media platforms.
+- `/Waze_retrival`: Contains the source code for data retrival from Waze.
 
 *To be completed*
 
