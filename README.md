@@ -21,22 +21,14 @@ Detailed instructions for each tool and script are stored in separate folders. P
 To get started, clone this repository using the following command:
 
 ```bash
-git clone https://github.com/your-username/social-media-data-crawling-hub.git
+git clone https://github.com/c-steve-wang/Social-Media-Data-Retrival.git
 ```
 
 After cloning, navigate to the specific folder for detailed instructions on how to use each tool.
 
 ## Contribution
 
-Contributions to this repository are welcome. We encourage community engagement and value your input and ideas. If you have suggestions for improvements or want to contribute code, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-**Before making a contribution, please cantact the author for details.**
+Contributions to this repository are welcome. We encourage community engagement and value your input and ideas. If you have suggestions for improvements or want to contribute code, please  please cantact the author for details.
 
 ## License
 
