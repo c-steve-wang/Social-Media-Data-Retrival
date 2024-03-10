@@ -9,7 +9,7 @@ import requests
 # Define your API list file and response path
 res_path = 'responses'
 date = datetime.date.today()
-backup_path = os.path.join(str(date), res_path)
+backup_path = os.path.join("Waze_retrival", str(date), res_path)
 if not os.path.exists(backup_path):
     os.makedirs(backup_path)
 
