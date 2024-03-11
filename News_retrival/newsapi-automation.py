@@ -79,9 +79,7 @@ def main():
 
     res_path = 'newsapi-responses'
     filename = 'newsapi-file_name'
-    api_key_list = ['a63603e90e634ff980a8a679000c2ab9', 'c4cb1b600eb840fa9f21d9204d8bdf94', 'fda2daeb07444abf9dcbf93d58c18f1c',
-                    '7134c100b4a44486968958f19dfbb966', '4d2db730a2d54234858f75f0e8042712', 'a49695a154474745ae4bf7125260c742',
-                    'ff5cfa602419433eb207ddad10e095c4', 'e04b9bfa1fc14cd3af4b7bdd178450fc']
+    api_key_list = ['sampl-this-is-a-sample-inside-01', 'key-this-is-a-sample-inside-02', 'api-this-is-a-sample-inside-03','code-this-is-a-sample-inside-04']
 
     # backup_path = os.path.join("../../nlp-earthquake/data", str(dt_func.today()), res_path)
     # file_name_path = os.path.join("../../nlp-earthquake/data", args.event_name, filename)
