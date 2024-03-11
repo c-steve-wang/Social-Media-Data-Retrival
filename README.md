@@ -9,8 +9,8 @@ The purpose of this hub is to provide a centralized location for scripts, tools,
 ## Repository Structure
 
 - `/Waze_retrival`: Contains the source code for data retrival from Waze.
+- `/News_retrival`: Contains the source code for data retrival from NewsAPI and GDELT.
 
-*To be completed*
 
 ## Instructions
 
@@ -18,13 +18,16 @@ Detailed instructions for each tool and script are stored in separate folders. P
 
 ## Getting Started
 
-To get started, clone this repository using the following command:
+To get started, pease follow commands below:
 
 ```bash
 git clone https://github.com/c-steve-wang/Social-Media-Data-Retrival.git
+cd Social-Media-Data-Retrival
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
-After cloning, navigate to the specific folder for detailed instructions on how to use each tool.
+*Before start to use the code, make sure you have replace the sample url in 'area_url.txt' and 'newsapi-automation.py'.*
 
 ## Contribution
 
