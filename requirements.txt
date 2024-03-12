@@ -3,4 +3,3 @@ requests
 schedule
 argparse
 newspaper3k
-apscheduler
