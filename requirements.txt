@@ -4,3 +4,4 @@ schedule
 python-uuid
 argparse
 newspaper3k
+apscheduler
